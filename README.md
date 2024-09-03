@@ -50,7 +50,9 @@ My 5 years journey in IT hands on experience has led me to understand the import
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge"/>
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge"/>
-<img src="https://img.shields.io/badge/Azure%20Fundamentals%20%28AZ-900%29-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Microsoft Azure Fundamentals (AZ-900) Badge"/>
+    <img src="https://img.shields.io/badge/Cisco%20CCNA-0045E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA Badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals Badge"/>
+
 <img src="https://img.shields.io/badge/TestOut%20CyberDefense%20Pro-007ACC?style=for-the-badge&logo=TestOut&logoColor=white" alt="TestOut CyberDefense Pro Badge"/>
 
 

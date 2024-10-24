@@ -7,7 +7,7 @@ I am an IT Network Engineer currently studying Cybersecurity. I have a deep pass
 
 ## Objective
 
-My 5 years journey in IT hands on experience has led me to understand the importance of security and to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My 5 years journey in IT hands on experience has led me to understand the importance of security and to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a SOC Analyst team.
 
 ## Skills
 
@@ -16,10 +16,10 @@ My 5 years journey in IT hands on experience has led me to understand the import
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Coming soon|
+| Incident Response Planning and Execution      | coming soon|
+| Case Management with TheHive                  | coming soon|
+| Scripting and Automation for Threat Mitigation | coming soon|
 
 ## Tools
 
@@ -45,7 +45,7 @@ My 5 years journey in IT hands on experience has led me to understand the import
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
     <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-0088CC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+">
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
@@ -68,5 +68,5 @@ My 5 years journey in IT hands on experience has led me to understand the import
 
 ## Others
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Soccer and Hockey
+- ⚡ Fun fact: I like Soccer and Hockey (OILERS Fan!)
 -->

@@ -47,6 +47,7 @@ My 5 years journey in IT hands on experience has led me to understand the import
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+    <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-0088CC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+">
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge"/>
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Badge"/>

@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/jordy-n-199851227"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an IT Network Engineer currently studying Cybersecurity. I have a deep passion for technology and a strong commitment to tackling intricate challenges.
+I’m an IT Network Engineer currently advancing my expertise in Cybersecurity. Passionate about technology and problem-solving, I thrive on tackling complex challenges and developing secure, efficient network solutions..
 
 ## Objective
 
-My 5 years journey in IT hands on experience has led me to understand the importance of security and to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a SOC Analyst team.
+My five-year journey in IT has taught me that technology is only as strong as its security. That insight inspired my growing passion for cybersecurity and cloud computing, and I’m now committed to transitioning into a role where I can contribute as a SOC Analyst or Cloud Architect.
 
 ## Skills
 
